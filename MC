@@ -1,0 +1,16 @@
+[
+  {
+    "version": "نسخه : 1.17.10",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: اسکای بلاک،بدوارز ",
+    "name": "HeavenMine",
+    "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png"
+  },
+  {
+    "version": "نسخه : 1.17.10",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: اسکای بلاک،بدوارز ",
+    "name": "HeavenMine",
+    "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png"
+  }
+]
