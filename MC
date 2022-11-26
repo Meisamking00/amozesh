@@ -4,13 +4,15 @@
     "none": "نوع سرور : رول پلی",
     "game": "بازی‌ها: اسکای بلاک،بدوارز ",
     "name": "HeavenMine",
-    "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png"
+    "player": "5.42.223.187",
+    "img": "https://www.uplooder.net/img/image/43/0b96d15ddecb8204464e59dfbb631bf2/RoundPhoto-Nov262022-005941.png"
   },
   {
-    "version": "نسخه : 1.17.10",
+    "version": "نسخه : 1.18/1.19",
     "none": "نوع سرور : رول پلی",
     "game": "بازی‌ها: اسکای بلاک،بدوارز ",
-    "name": "HeavenMine",
+    "name": "MineEven",
+    "player": "45.81.16.13",
     "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png"
   }
 ]
