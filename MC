@@ -20,5 +20,16 @@
     "online": "on",
     "dialog-tel": "https://t.me/MineEven",
     "dialog-help": "🔎 ¦ Name ⪼ ‌MineEven\n🗝 ¦ IP¹ ⪼ 45.81.16.13\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19"
+  },
+  {
+    "version": "نسخه : 1.19",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: اسکای بلاک،بدوارز،سرویوال",
+    "name": "Ruby_Land",
+    "player": "play.mcbe.ir",
+    "img": "https://www.uplooder.net/img/image/42/a9850e1af9c72238366e2fcd71dbebbc/RoundPhoto-Dec122022-072407.png",
+    "online": "on",
+    "dialog-tel": "https://t.me/Ruby_Land",
+    "dialog-help": "🔎 ¦ Name ⪼ ‌Ruby_Land\n🗝 ¦ IP¹ ⪼ play.mcbe.ir\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19"
   }
 ]
