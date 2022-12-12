@@ -6,7 +6,9 @@
     "name": "HeavenMine",
     "player": "5.42.223.187",
     "img": "https://www.uplooder.net/img/image/43/0b96d15ddecb8204464e59dfbb631bf2/RoundPhoto-Nov262022-005941.png",
-    "online": "off"
+    "online": "off",
+    "dialog-tel": "https://t.me/HeavenMcServer",
+    "dialog-help": "\n🔎 ¦ Name ⪼ HeavenMine\n🗝 ¦ IP¹ ⪼ 45.81.19.120\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10"
   },
   {
     "version": "نسخه : 1.18/1.19",
@@ -15,6 +17,8 @@
     "name": "MineEven",
     "player": "45.81.16.13",
     "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png",
-    "online": "on"
+    "online": "on",
+    "dialog-tel": "https://t.me/MineEven",
+    "dialog-help": "🔎 ¦ Name ⪼ ‌MineEven\n🗝 ¦ IP¹ ⪼ 45.81.16.13\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19"
   }
 ]
