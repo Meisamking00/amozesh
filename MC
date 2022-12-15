@@ -31,5 +31,16 @@
     "online": "on",
     "dialog-tel": "https://t.me/Ruby_Land",
     "dialog-help": "🔎 ¦ Name ⪼ ‌Ruby_Land\n🗝 ¦ IP¹ ⪼ play.mcbe.ir\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19"
+  },
+  {
+    "version": "نسخه : 1.17.10",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: اسکای بلاک،",
+    "name": "WitherGaming",
+    "player": "45.81.19.144",
+    "img": "https://s2.uupload.ir/files/roundphoto_dec142022_073029_0qdu.png",
+    "online": "off",
+    "dialog-tel": "https://rubika.ir/WitherGaming",
+    "dialog-help": "🔎 ¦ Name ⪼ ‌WitherGaming\n🗝 ¦ IP¹ ⪼ 45.81.19.144\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10"
   }
 ]
