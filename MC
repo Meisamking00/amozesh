@@ -6,7 +6,7 @@
     "name": "HeavenMine",
     "player": "45.81.19.120",
     "img": "https://www.uplooder.net/img/image/43/0b96d15ddecb8204464e59dfbb631bf2/RoundPhoto-Nov262022-005941.png",
-    "online": "off",
+    "online": "on",
     "dialog-tel": "https://t.me/HeavenMcServer",
     "dialog-help": "\n🔎 ¦ Name ⪼ HeavenMine\n🗝 ¦ IP¹ ⪼ 45.81.19.120\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10"
   },
@@ -15,7 +15,7 @@
     "none": "نوع سرور : رول پلی",
     "game": "بازی‌ها: اسکای بلاک،بدوارز ",
     "name": "MineEven",
-    "player": "45.81.16.13",
+    "player": "megm.ir",
     "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png",
     "online": "on",
     "dialog-tel": "https://t.me/MineEven",
