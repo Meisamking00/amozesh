@@ -7,7 +7,7 @@
     "player": "45.81.19.120",
     "img": "https://www.uplooder.net/img/image/43/0b96d15ddecb8204464e59dfbb631bf2/RoundPhoto-Nov262022-005941.png",
     "online": "on",
-    "dialog-tel": "https://t.me/HeavenMcServer",
+    "dialog-tel": "https://rubika.ir/joinc/BAEAECGH0XKYMIHQKDMCOWFAPTGTUSMA",
     "dialog-help": "\n🔎 ¦ Name ⪼ HeavenMine\n🗝 ¦ IP¹ ⪼ 45.81.19.120\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10"
   },
   {
@@ -18,7 +18,7 @@
     "player": "megm.ir",
     "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png",
     "online": "on",
-    "dialog-tel": "https://t.me/MineEven",
+    "dialog-tel": "https://rubika.ir/joinc/BBIFEBDI0LINBERUIRWTHHKJQXGNBTCT",
     "dialog-help": "🔎 ¦ Name ⪼ ‌MineEven\n🗝 ¦ IP¹ ⪼ 45.81.16.13\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19"
   },
   {
@@ -29,7 +29,7 @@
     "player": "play.mcbe.ir",
     "img": "https://www.uplooder.net/img/image/42/a9850e1af9c72238366e2fcd71dbebbc/RoundPhoto-Dec122022-072407.png",
     "online": "on",
-    "dialog-tel": "https://t.me/Ruby_Land",
+    "dialog-tel": "https://rubika.ir/joinc/BGAFBFBF0PBPBQNEFTVFMBVKKKQNLXVM",
     "dialog-help": "🔎 ¦ Name ⪼ ‌Ruby_Land\n🗝 ¦ IP¹ ⪼ play.mcbe.ir\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19"
   },
   {
