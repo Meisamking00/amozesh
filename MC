@@ -53,5 +53,16 @@
     "online": "off",
     "dialog-tel": "https://rubika.ir/AscentraMC",
     "dialog-help": "🔎 ¦ Name ⪼ ‌AscentraMC\n🗝 ¦ IP¹ ⪼ **.**.**.***\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10"
+  },
+  {
+    "version": "نسخه : 1.17.10",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: اسکای بلاک،...",
+    "name": "LegendCloud",
+    "player": "LegendCloud.ir",
+    "img": "https://s2.uupload.ir/files/roundphoto_dec232022_175343_7a46.png",
+    "online": "on",
+    "dialog-tel": "https://rubika.ir/LegendCloud",
+    "dialog-help": "🔎 ¦ Name ⪼ ‌LegendCloud\n🗝 ¦ IP¹ ⪼ LegendCloud.ir\n📌 ¦ Port ⪼ 63918\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, Player Vs Bot, SkyWars ,City, Survival"
   }
 ]
