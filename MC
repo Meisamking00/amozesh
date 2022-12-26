@@ -64,5 +64,16 @@
     "online": "on",
     "dialog-tel": "https://rubika.ir/LegendCloud",
     "dialog-help": "🔎 ¦ Name ⪼ ‌LegendCloud\n🗝 ¦ IP¹ ⪼ LegendCloud.ir\n📌 ¦ Port ⪼ 63918\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, Player Vs Bot, SkyWars ,City, Survival"
+  },
+  {
+    "version": "نسخه : 1.17.10",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: اسکای بلاک،بدوارز",
+    "name": "Empire Of Gamers",
+    "player": "185.231.114.194",
+    "img": "https://s2.uupload.ir/files/roundphoto_dec272022_020459_dwho.png",
+    "online": "on",
+    "dialog-tel": "https://rubika.ir/eogcraftpe",
+    "dialog-help": "🔎 ¦ Name ⪼ ‌Empire Of Gamers\n🗝 ¦ IP¹ ⪼ 185.231.114.194\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, SkyWars ,City, Survival"
   }
 ]
