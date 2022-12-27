@@ -86,5 +86,27 @@
     "online": "off",
     "dialog-tel": "https://rubika.ir/joinc/BHJDJGJJ0HZABXYLXQOETOPOLSPWEMBC",
     "dialog-help": "🔎 ¦ Soon..."
+  },
+  {
+    "version": "نسخه : 1.17.10",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: اسکای بلاک،بدوارز",
+    "name": "MineXrp",
+    "player": "MineXrp.aternos.me",
+    "img": "https://s2.uupload.ir/files/roundphoto_dec272022_181752_dcwg.png",
+    "online": "off",
+    "dialog-tel": "https://rubika.ir/joinc/BHFBABGD0STQHJYUXMOIWLYMSDCKRBEN",
+    "dialog-help": "🔎 ¦ Name ⪼ ‌MineX_Rp\n🗝 ¦ IP¹ ⪼ MineXrp.aternos.me\n📌 ¦ Port ⪼ 17448\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, SkyWars ,City, Survival"
+  },
+  {
+    "version": "نسخه : 1.17.10",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: پی‌وی‌پی،سروایول،سیتی",
+    "name": "GoldenRP",
+    "player": "GoldenRP.aternos.me",
+    "img": "https://s2.uupload.ir/files/img_20221227_182302_903_1vsv.jpg",
+    "online": "on",
+    "dialog-tel": "https://rubika.ir/joinc/BIABFGAJ0PRHKQEFQRYBDKRHPDFEMFAJ",
+    "dialog-help": "🔎 ¦ Name ⪼ ‌golden RP\n🗝 ¦ IP¹ ⪼ GoldenRP.aternos.me\n📌 ¦ Port ⪼ 16810\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP ,City, Survival"
   }
 ]
