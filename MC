@@ -75,5 +75,16 @@
     "online": "on",
     "dialog-tel": "https://rubika.ir/eogcraftpe",
     "dialog-help": "🔎 ¦ Name ⪼ ‌Empire Of Gamers\n🗝 ¦ IP¹ ⪼ 185.231.114.194\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, SkyWars ,City, Survival"
+  },
+  {
+    "version": "نسخه : Soon...",
+    "none": "نوع سرور : Soon",
+    "game": "بازی‌ها: Soon",
+    "name": "Server | fenderPRsv",
+    "player": "Soon...",
+    "img": "https://s2.uupload.ir/files/roundphoto_dec272022_180819_pc9i.png",
+    "online": "off",
+    "dialog-tel": "https://rubika.ir/joinc/BHJDJGJJ0HZABXYLXQOETOPOLSPWEMBC",
+    "dialog-help": "🔎 ¦ Soon..."
   }
 ]
