@@ -8,7 +8,8 @@
     "img": "https://www.uplooder.net/img/image/43/0b96d15ddecb8204464e59dfbb631bf2/RoundPhoto-Nov262022-005941.png",
     "online": "on",
     "dialog-tel": "https://rubika.ir/joinc/BAEAECGH0XKYMIHQKDMCOWFAPTGTUSMA",
-    "dialog-help": "\n🔎 ¦ Name ⪼ HeavenMine\n🗝 ¦ IP¹ ⪼ 45.81.19.120\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10"
+    "dialog-help": "\n🔎 ¦ Name ⪼ HeavenMine\n🗝 ¦ IP¹ ⪼ 45.81.19.120\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10",
+    "model": "vs"
   },
   {
     "version": "نسخه : 1.18/1.19",
@@ -19,7 +20,8 @@
     "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png",
     "online": "on",
     "dialog-tel": "https://rubika.ir/joinc/BBIFEBDI0LINBERUIRWTHHKJQXGNBTCT",
-    "dialog-help": "🔎 ¦ Name ⪼ ‌MineEven\n🗝 ¦ IP¹ ⪼ 45.81.16.13\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19"
+    "dialog-help": "🔎 ¦ Name ⪼ ‌MineEven\n🗝 ¦ IP¹ ⪼ 45.81.16.13\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19",
+    "model": "vs"
   },
   {
     "version": "نسخه : 1.19",
@@ -30,7 +32,8 @@
     "img": "https://www.uplooder.net/img/image/42/a9850e1af9c72238366e2fcd71dbebbc/RoundPhoto-Dec122022-072407.png",
     "online": "on",
     "dialog-tel": "https://rubika.ir/joinc/BGAFBFBF0PBPBQNEFTVFMBVKKKQNLXVM",
-    "dialog-help": "🔎 ¦ Name ⪼ ‌Ruby_Land\n🗝 ¦ IP¹ ⪼ play.mcbe.ir\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19"
+    "dialog-help": "🔎 ¦ Name ⪼ ‌Ruby_Land\n🗝 ¦ IP¹ ⪼ play.mcbe.ir\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19",
+    "model": "vs"
   },
   {
     "version": "نسخه : 1.17.10",
@@ -41,18 +44,8 @@
     "img": "https://s2.uupload.ir/files/roundphoto_dec142022_073029_0qdu.png",
     "online": "off",
     "dialog-tel": "https://rubika.ir/WitherGaming",
-    "dialog-help": "🔎 ¦ Name ⪼ ‌WitherGaming\n🗝 ¦ IP¹ ⪼ 45.81.19.144\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10"
-  },
-  {
-    "version": "نسخه : 1.17.10",
-    "none": "نوع سرور : رول پلی",
-    "game": "بازی‌ها: اسکای بلاک،",
-    "name": "AscentraMC",
-    "player": "**.**.**.***",
-    "img": "https://s2.uupload.ir/files/roundphoto_dec232022_175343_7a46.png",
-    "online": "off",
-    "dialog-tel": "https://rubika.ir/AscentraMC",
-    "dialog-help": "🔎 ¦ Name ⪼ ‌AscentraMC\n🗝 ¦ IP¹ ⪼ **.**.**.***\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10"
+    "dialog-help": "🔎 ¦ Name ⪼ ‌WitherGaming\n🗝 ¦ IP¹ ⪼ 45.81.19.144\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10",
+    "model": "vs"
   },
   {
     "version": "نسخه : 1.17.10",
@@ -61,9 +54,10 @@
     "name": "LegendCloud",
     "player": "LegendCloud.ir",
     "img": "https://s2.uupload.ir/files/roundphoto_dec242022_125108_smo6.png",
-    "online": "on",
+    "online": "off",
     "dialog-tel": "https://rubika.ir/LegendCloud",
-    "dialog-help": "🔎 ¦ Name ⪼ ‌LegendCloud\n🗝 ¦ IP¹ ⪼ LegendCloud.ir\n📌 ¦ Port ⪼ 63918\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, Player Vs Bot, SkyWars ,City, Survival"
+    "dialog-help": "🔎 ¦ Name ⪼ ‌LegendCloud\n🗝 ¦ IP¹ ⪼ LegendCloud.ir\n📌 ¦ Port ⪼ 63918\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, Player Vs Bot, SkyWars ,City, Survival",
+    "model": "vs"
   },
   {
     "version": "نسخه : 1.17.10",
@@ -74,7 +68,8 @@
     "img": "https://s2.uupload.ir/files/roundphoto_dec272022_020459_dwho.png",
     "online": "on",
     "dialog-tel": "https://rubika.ir/eogcraftpe",
-    "dialog-help": "🔎 ¦ Name ⪼ ‌Empire Of Gamers\n🗝 ¦ IP¹ ⪼ 185.231.114.194\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, SkyWars ,City, Survival"
+    "dialog-help": "🔎 ¦ Name ⪼ ‌Empire Of Gamers\n🗝 ¦ IP¹ ⪼ 185.231.114.194\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, SkyWars ,City, Survival",
+    "model": "vs"
   },
   {
     "version": "نسخه : Soon...",
@@ -85,7 +80,8 @@
     "img": "https://s2.uupload.ir/files/roundphoto_dec272022_180819_pc9i.png",
     "online": "off",
     "dialog-tel": "https://rubika.ir/joinc/BHJDJGJJ0HZABXYLXQOETOPOLSPWEMBC",
-    "dialog-help": "🔎 ¦ Soon..."
+    "dialog-help": "🔎 ¦ Soon...",
+    "model": "as"
   },
   {
     "version": "نسخه : 1.17.10",
@@ -96,7 +92,8 @@
     "img": "https://s2.uupload.ir/files/roundphoto_dec272022_181752_dcwg.png",
     "online": "off",
     "dialog-tel": "https://rubika.ir/joinc/BHFBABGD0STQHJYUXMOIWLYMSDCKRBEN",
-    "dialog-help": "🔎 ¦ Name ⪼ ‌MineX_Rp\n🗝 ¦ IP¹ ⪼ MineXrp.aternos.me\n📌 ¦ Port ⪼ 17448\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, SkyWars ,City, Survival"
+    "dialog-help": "🔎 ¦ Name ⪼ ‌MineX_Rp\n🗝 ¦ IP¹ ⪼ MineXrp.aternos.me\n📌 ¦ Port ⪼ 17448\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, SkyWars ,City, Survival",
+    "model": "as"
   },
   {
     "version": "نسخه : 1.17.10",
@@ -107,6 +104,7 @@
     "img": "https://s2.uupload.ir/files/roundphoto_dec272022_182344_qidr.png",
     "online": "on",
     "dialog-tel": "https://rubika.ir/joinc/BIABFGAJ0PRHKQEFQRYBDKRHPDFEMFAJ",
-    "dialog-help": "🔎 ¦ Name ⪼ ‌golden RP\n🗝 ¦ IP¹ ⪼ GoldenRP.aternos.me\n📌 ¦ Port ⪼ 16810\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP ,City, Survival"
+    "dialog-help": "🔎 ¦ Name ⪼ ‌golden RP\n🗝 ¦ IP¹ ⪼ GoldenRP.aternos.me\n📌 ¦ Port ⪼ 16810\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP ,City, Survival",
+    "model": "as"
   }
 ]
