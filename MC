@@ -7,7 +7,7 @@
     "player": "45.81.19.120",
     "img": "https://www.uplooder.net/img/image/43/0b96d15ddecb8204464e59dfbb631bf2/RoundPhoto-Nov262022-005941.png",
     "online": "on",
-    "dialog-tel": "https://rubika.ir/joinc/BAEAECGH0XKYMIHQKDMCOWFAPTGTUSMA",
+    "dialog-tel": "http://rubika.ir/joinc/BFHCJIDF0JWFJFZRYJNJPLUUCVYQEBIK",
     "dialog-help": "\n🔎 ¦ Name ⪼ HeavenMine\n🗝 ¦ IP¹ ⪼ 45.81.19.120\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10",
     "model": "vs"
   },
@@ -18,7 +18,7 @@
     "name": "MineEven",
     "player": "megm.ir",
     "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png",
-    "online": "on",
+    "online": "off",
     "dialog-tel": "https://rubika.ir/joinc/BBIFEBDI0LINBERUIRWTHHKJQXGNBTCT",
     "dialog-help": "🔎 ¦ Name ⪼ ‌MineEven\n🗝 ¦ IP¹ ⪼ 45.81.16.13\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19",
     "model": "vs"
@@ -66,7 +66,7 @@
     "name": "Empire Of Gamers",
     "player": "185.231.114.194",
     "img": "https://s2.uupload.ir/files/roundphoto_dec272022_020459_dwho.png",
-    "online": "on",
+    "online": "off",
     "dialog-tel": "https://rubika.ir/eogcraftpe",
     "dialog-help": "🔎 ¦ Name ⪼ ‌Empire Of Gamers\n🗝 ¦ IP¹ ⪼ 185.231.114.194\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP, SkyWars ,City, Survival",
     "model": "vs"
@@ -102,9 +102,33 @@
     "name": "GoldenRP",
     "player": "GoldenRP.aternos.me",
     "img": "https://s2.uupload.ir/files/roundphoto_dec272022_182344_qidr.png",
-    "online": "on",
+    "online": "off",
     "dialog-tel": "https://rubika.ir/joinc/BIABFGAJ0PRHKQEFQRYBDKRHPDFEMFAJ",
     "dialog-help": "🔎 ¦ Name ⪼ ‌golden RP\n🗝 ¦ IP¹ ⪼ GoldenRP.aternos.me\n📌 ¦ Port ⪼ 16810\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP ,City, Survival",
+    "model": "as"
+  },
+  {
+    "version": "نسخه : ...",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: کليک کنید...",
+    "name": "AspiriaMc",
+    "player": "سرور هنوز تکمیل نشده است...",
+    "img": "https://s2.uupload.ir/files/roundphoto_jan082023_024155_wgzr.png",
+    "online": "off",
+    "dialog-tel": "https://rubika.ir/AspiriaMc",
+    "dialog-help": "🔎 ¦ Name ⪼ ‌AspiriaMc\n🗝 ¦ IP¹ ⪼ Soon...\n📌 ¦ Port ⪼ Soon...\n⚙ ¦ Version ⪼ Soon...\n🎮  ¦ \n- 1vs1\n- PVP \n- SkyWars\n- BowWars\n- GunWars\n- Knockback FFA",
+    "model": "as"
+  },
+  {
+    "version": "نسخه : 1.17.10",
+    "none": "نوع سرور : رول پلی",
+    "game": "بازی‌ها: کليک کنید...",
+    "name": "ArenaMc",
+    "player": "185.231.114.87",
+    "img": "https://s2.uupload.ir/files/roundphoto_jan082023_024647_h10j.png",
+    "online": "off",
+    "dialog-tel": "https://rubika.ir/ArenaMc",
+    "dialog-help": "🔎 ¦ Name ⪼ ‌ArenaMc\n🗝 ¦ IP¹ ⪼ 185.231.114.87\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦ pvp,SkyWars",
     "model": "as"
   }
 ]
