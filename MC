@@ -18,7 +18,7 @@
     "name": "MineEven",
     "player": "megm.ir",
     "img": "https://www.uplooder.net/img/image/2/2b097a032d2c342204a42388f4050407/RoundPhoto-Nov262022-163534.png",
-    "online": "off",
+    "online": "on",
     "dialog-tel": "https://rubika.ir/joinc/BBIFEBDI0LINBERUIRWTHHKJQXGNBTCT",
     "dialog-help": "🔎 ¦ Name ⪼ ‌MineEven\n🗝 ¦ IP¹ ⪼ 45.81.16.13\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.19",
     "model": "vs"
