@@ -102,7 +102,7 @@
     "name": "GoldenRP",
     "player": "GoldenRP.aternos.me",
     "img": "https://s2.uupload.ir/files/roundphoto_dec272022_182344_qidr.png",
-    "online": "off",
+    "online": "on",
     "dialog-tel": "https://rubika.ir/joinc/BIABFGAJ0PRHKQEFQRYBDKRHPDFEMFAJ",
     "dialog-help": "🔎 ¦ Name ⪼ ‌golden RP\n🗝 ¦ IP¹ ⪼ GoldenRP.aternos.me\n📌 ¦ Port ⪼ 16810\n⚙ ¦ Version ⪼ 1.17.10\n🎮  ¦  PvP ,City, Survival",
     "model": "as"
