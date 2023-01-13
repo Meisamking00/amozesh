@@ -6,7 +6,7 @@
     "name": "HeavenMine",
     "player": "45.81.19.120",
     "img": "https://www.uplooder.net/img/image/43/0b96d15ddecb8204464e59dfbb631bf2/RoundPhoto-Nov262022-005941.png",
-    "online": "off",
+    "online": "on",
     "dialog-tel": "http://rubika.ir/joinc/BFHCJIDF0JWFJFZRYJNJPLUUCVYQEBIK",
     "dialog-help": "\n🔎 ¦ Name ⪼ HeavenMine\n🗝 ¦ IP¹ ⪼ 45.81.19.120\n📌 ¦ Port ⪼ 19132\n⚙ ¦ Version ⪼ 1.17.10",
     "model": "vs"
